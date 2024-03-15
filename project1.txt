@@ -1,0 +1,3 @@
+calculator functionality
+addition functionality
+1+1=2
