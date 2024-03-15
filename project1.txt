@@ -1,3 +1,8 @@
 calculator functionality
+#addtion
 addition functionality
 1+1=2
+
+#substraction
+substarction functionality
+2-1=1
