@@ -6,3 +6,7 @@ addition functionality
 #substraction
 substarction functionality
 2-1=1
+
+#multiplication
+multiplication funcationality 
+2*3=6
