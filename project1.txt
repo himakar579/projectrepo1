@@ -10,3 +10,7 @@ substarction functionality
 #multiplication
 multiplication funcationality 
 2*3=6
+
+#division 
+division functionality 
+4/2=2
