@@ -7,6 +7,16 @@ addition functionality
 substarction functionality
 2-1=1
 
+
 #modulas
 modulas funcationality
 4%2=0
+
+#multiplication
+multiplication funcationality 
+2*3=6
+
+#division 
+division functionality 
+4/2=2
+
